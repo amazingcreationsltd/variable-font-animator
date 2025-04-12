@@ -10,6 +10,8 @@ A lightweight and customizable text animation library that leverages **variable 
 
 **Variable Font Animator** creates eye-catching animations by manipulating the **weight axis** (`wght`) of variable fonts. Each character animates individually with a delay, creating a ripple-like effect to draw attention.
 
+- We can use other variable fonts also, i.e: ***Hepta Slab, Geist, Playfair Display, Bodoni Moda*** etc... from https://fonts.google.com/
+
 ---
 
 ## ✨ Features
@@ -68,7 +70,6 @@ $(document).ready(function() {
 
 ---
 
-## 🔧 Getting Started
 
 ### ✅ Prerequisites
 
@@ -96,14 +97,9 @@ The animation runs automatically on all elements with `.text-animation-container
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgments
 
-- **Inter** font by [Rasmus Andersson](https://rsms.me/inter/)
-- Inspired by variable font demos from the typography community
+- Inspired by variable font demos from the UI,typography community
+
+# **Designed by** - Debanga Dutta
 
