@@ -1,6 +1,8 @@
 # Variable Font Animator
 
 [Live Demo↗️](https://amazingcreationsltd.github.io/variable-font-animator/)
+---
+
 A lightweight and customizable text animation library that leverages **variable fonts** to create smooth, fluid weight transitions for engaging web typography.
 
 ![Variable Font Animation Demo](demo-animation.gif)
